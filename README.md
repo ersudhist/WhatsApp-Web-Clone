@@ -9,6 +9,8 @@ This project is a clone of the WhatsApp Web interface, built using HTML, CSS, an
 - Search for contacts and messages
 - Responsive design for various screen sizes
 
+## Deploy Link : https://boisterous-boba-e3c66b.netlify.app
+
 ## Demo
 
 You can see a live demo of this project [here](link_to_demo).
